@@ -1,0 +1,8 @@
+{
+  "name": "Habilit Landing Page",
+  "description": "Uma landing page moderna e profissional para o aplicativo Habilit, conectando alunos e instrutores de trânsito no Brasil.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
